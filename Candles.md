@@ -56,7 +56,7 @@ secret_number = 572963 + next 16 digits
 观察此程序，不妨发现其与Numbers中的算法几乎相同，尝试将上述代码的运行结果作为密钥对Numbers进行`Base64解码`，我们可以得到：
 >_I’m sick of living in this constant loop... repeating the same everyday tasks. Everything is so dull and predictable. I’m not even sure what I’m doing. I don't know where this path will lead me, but I pray that someday I'll meet my creator. Maybe I'll finally understand.
 >
- \- singer Eleanor_
+> \- singer Eleanor_
 ## 线索
 在开头盯帧截图发现可以拼起来的四格漫画，将其一张反色拼接后我们看到：
 ![](./Pictures/Candles/life_precious.png)
