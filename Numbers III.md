@@ -28,21 +28,36 @@
 
 这是视频中出现的字符
 >_1:01_ cx68v1
+>
 >_1:04_ 7jf4b0
+>
 >_1:07_ zkj1r3
+>
 >_1:10_ ypqf9u
+>
 >_1:13_ rgwdhe
+>
 >_1:16_ ab289c
+>
 >_1:19_ dkl9uv
+>
 >_1:22_ mod (ax+b)
 >
+>---
 >_2:13_ qj9zop
+>
 >_2:16_ 9fg843
+>
 >_2:19_ msj14r
+>
 >_2:22_ wiaf9u
+>
 >_2:25_ ghspcd
+>
 >_2:28_ bc5lie
+>
 >_2:31_ nkymxv
+>
 >_2:35_ .xyz
 
 ## 解决过程
@@ -57,10 +72,10 @@
 ### Hiyori
 开头闪现（？）的Hiyori从目前来看，并不像是二进制（其位置无规律并伴随着空帧和都有的帧）
 ### 频谱图
-![[Pictures/Numbers_III/spectrometer.png]]
+![](./Pictures/Numbers_III/spectrometer.png)
 看不出来什么线索......
 ## ~~我知道你很急，但你先别急~~
 是的，线索在这里就已经终止，下面附一些有趣的帧：
-![[interesting_1.png]]
-![[interesting_2.png]]
-![[interesting_3.png]]
+![](./Pictures/Numbers_III/interesting_1.png)
+![](./Pictures/Numbers_III/interesting_2.png)
+![](./Pictures/Numbers_III/interesting_3.png)
