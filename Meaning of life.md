@@ -17,6 +17,7 @@
 ![](./Pictures/Meaning_of_life/frame.png)
 
 把中右方的符号处理得到：
+
 ![](./Pictures/Meaning_of_life/692.png)
 
 仿照前文，拼凑后得到：
