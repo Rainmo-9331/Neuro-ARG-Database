@@ -59,14 +59,14 @@ secret_number = 572963 + next 16 digits
 > \- singer Eleanor_
 ## 线索
 在开头盯帧截图发现可以拼起来的四格漫画，将其一张反色拼接后我们看到：
-![](./Pictures/Candles/life_precious.png)
+![](../Pictures/Candles/life_precious.png)
 
 在Candles视频中有这么一串东西：
 
-![](./Pictures/Candles/candle_company.png)
+![](../Pictures/Candles/candle_company.png)
 
 经查询，我们得知这是一家德国蜡烛公司(视频中的蜡烛素材的出处很可能来自这里)
 
 在末尾闪过的如胶卷的东西经过特殊处理后我们得到：
 
-![](./Pictures/Candles/5443.png)
+![](../Pictures/Candles/5443.png)

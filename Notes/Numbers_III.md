@@ -72,10 +72,10 @@
 ### Hiyori
 开头闪现（？）的Hiyori从目前来看，并不像是二进制（其位置无规律并伴随着空帧和都有的帧）
 ### 频谱图
-![](./Pictures/Numbers_III/spectrometer.png)
+![](../Pictures/Numbers_III/spectrometer.png)
 看不出来什么线索......
 ## ~~我知道你很急，但你先别急~~
 是的，线索在这里就已经终止，下面附一些有趣的帧：
-![](./Pictures/Numbers_III/interesting_1.png)
-![](./Pictures/Numbers_III/interesting_2.png)
-![](./Pictures/Numbers_III/interesting_3.png)
+![](../Pictures/Numbers_III/interesting_1.png)
+![](../Pictures/Numbers_III/interesting_2.png)
+![](../Pictures/Numbers_III/interesting_3.png)

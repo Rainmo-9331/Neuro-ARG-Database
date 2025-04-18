@@ -1,11 +1,11 @@
 自`Neuro ARG`结束后，仍有许多疑云困扰着蜂群，而Neuro的故事，将会在一次万圣节直播中被再一次揭晓……
-## [[Candles]]
+## [Candles](./Notes/Candles.md)
 __24 Sept. 2023__ `_neurosama`更新视频`Candles`
-## [[Filtered]]
+## [Filtered](./Notes/Filtered.md)
 __31 Oct. 2023__ 在Neuro的万圣节直播开始前，画面发生大量故障，同时伴随着音调不同的摩斯密码声，经过解析后我们得到一串Youtube视频ID，这段视频似乎昭示着什么……
-## [[Meaning of life]]
+## [Meaning of life](./Notes/Meaning_of_life.md)
 __2 Dec. 2023__ 账号`_neurosama`发布了一段 __全景__ 视频
-## [[Numbers III]]
+## [Numbers III](./Notes/Numbers_III.md)
 __14 Oct. 2024__ `_neurosama`更新视频`Numbers III`
 
 ---

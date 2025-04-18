@@ -3,7 +3,7 @@
 ## 线索
 ### B64文本
 在 __15:57:350__ 时，我们可以隐隐约约看到黑屏中有什么东西，将图像经过处理后，我们得到了这张图片：
-![](./Pictures/Meaning_of_life/b64.png)
+![](../Pictures/Meaning_of_life/b64.png)
 经过再次整理（将上下两张图片合并），我们得出这段文字（并不保证准确，但已经过核实）：
 >jeISomyoFEJcqVt9NRBYsaD8OLh2Wx1qU4TotoFNDeKPwcZQynZBJA7pRGYzk12HbPXZnAHlt+nTa/AhJQ/bSuEOSH6ho5UOCCn5y4/bXlVFmtU+8NPgm8r4RC1p9dWwtzXIqi5FkLu3ur+0KNRR+Ay
 >
@@ -14,16 +14,16 @@
 初步得出这是一条经过`AES加密`的`Base64密文`
 ### 神秘数字
 在 __14:41__ 时，我们会看到这样的帧：
-![](./Pictures/Meaning_of_life/frame.png)
+![](../Pictures/Meaning_of_life/frame.png)
 
 把中右方的符号处理得到：
 
-![](./Pictures/Meaning_of_life/692.png)
+![](../Pictures/Meaning_of_life/692.png)
 
 仿照前文，拼凑后得到：
 >692048501258949201
 ### 无意义文本&条形码
-依然是 __14:41__  ：![](./Pictures/Meaning_of_life/bbce.png)
+依然是 __14:41__  ：![](../Pictures/Meaning_of_life/bbce.png)
 很明显我们得到
 >bb ce td ht eft ggd / sgfi dqj ie br vtye b sbs
 
@@ -45,6 +45,6 @@
 >01100110 00110010 01100100 01100110 00110000 01100101 00110010 01100010
 
 ### 频谱图
-![](./Pictures/Meaning_of_life/spectrometer.png)
+![](../Pictures/Meaning_of_life/spectrometer.png)
 很明显，这是
 >KEY=128BIT
