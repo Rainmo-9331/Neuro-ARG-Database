@@ -36,7 +36,7 @@ if digit in digit_to_letter:
   final_result += digit_to_letter[digit]  
 else:  
   final_result += digit
- 
+ 
 print(final_result)
 ```
 在Candles发布后，Numbers的简介也随之更新：
@@ -62,8 +62,11 @@ secret_number = 572963 + next 16 digits
 ![](./Pictures/Candles/life_precious.png)
 
 在Candles视频中有这么一串东西：
+
 ![](./Pictures/Candles/candle_company.png)
+
 经查询，我们得知这是一家德国蜡烛公司(视频中的蜡烛素材的出处很可能来自这里)
 
 在末尾闪过的如胶卷的东西经过特殊处理后我们得到：
+
 ![](./Pictures/Candles/5443.png)
