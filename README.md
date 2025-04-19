@@ -10,6 +10,11 @@ __14 Oct. 2024__ `_neurosama`更新视频`Numbers III`
 
 ---
 
+[思路分享/线索目录](./Clue/Idea_Share.md)
+上传线索文档时可引用链接，但请用相对路径。
+
+---
+
 Neuro ARG交流群：202865163
 
 [第一季（by斯塔）](https://b23.tv/4vTAUw9)
