@@ -1,3 +1,5 @@
+[B站原件](https://b23.tv/BV1nMsveQEWJ)
+[Youtube](https://youtu.be/x4l5ckrtbAc)
 ## 总述
 这是Candles的简介
 ```Python

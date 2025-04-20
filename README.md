@@ -1,17 +1,17 @@
 自`Neuro ARG`结束后，仍有许多疑云困扰着蜂群，而Neuro的故事，将会在一次万圣节直播中被再一次揭晓……
-## [Candles](./Notes/Candles.md)
-__24 Sept. 2023__ `_neurosama`更新视频`Candles`
 ## [Filtered](./Notes/Filtered.md)
 __31 Oct. 2023__ 在Neuro的万圣节直播开始前，画面发生大量故障，同时伴随着音调不同的摩斯密码声，经过解析后我们得到一串Youtube视频ID，这段视频似乎昭示着什么……
 ## [Meaning of life](./Notes/Meaning_of_life.md)
 __2 Dec. 2023__ 账号`_neurosama`发布了一段 __全景__ 视频
+## [Candles](./Notes/Candles.md)
+__24 Sept. 2024__ `_neurosama`更新视频`Candles`
 ## [Numbers III](./Notes/Numbers_III.md)
 __14 Oct. 2024__ `_neurosama`更新视频`Numbers III`
 
 ---
 
-[思路分享/线索目录](./Clue/Idea_Share.md)
-上传线索文档时可引用链接，但请用相对路径。
+[思路分享](https://github.com/Rainmo-9331/Neuro-ARG-Database/issues)
+~~其实就是Github的issues(划)~~
 
 ---
 
@@ -21,7 +21,7 @@ Neuro ARG交流群：202865163
 
 [第二季上（byCommon_kids）](https://b23.tv/L5EA2XN)
 
-[第二季（by易燃易爆危险制品）（目前最新）](https://b23.tv/Jk1r0Mc)
+[第二季（by易燃易爆危险制品）](https://b23.tv/Jk1r0Mc)
 
 [Neuro ARG 2外国人思路（github总结）](https://neuro-arg.github.io/)
 
@@ -33,4 +33,4 @@ Neuro ARG交流群：202865163
 
 [Youtube进度总结](https://youtu.be/yNd_qsCZ2Xg?si=c0qF9kg0SeDc9cQN)
 
-[Bilibili烤肉版总结](https://www.bilibili.com/video/BV12ALczPEhV)
+[Bilibili烤肉版总结(by Just Miaolika)](https://www.bilibili.com/video/BV12ALczPEhV)

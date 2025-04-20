@@ -1,3 +1,5 @@
+[B站原件](https://b23.tv/BV17YmGYdECf)
+[Youtube](https://youtu.be/aX4v5XUQtnw)
 ## 总述
 这是视频简介（它大概地描述了歌词，但请注意 __最后的密文__）
 >Rotate rotate
