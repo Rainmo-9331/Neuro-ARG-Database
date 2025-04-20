@@ -32,3 +32,5 @@ Neuro ARG交流群：202865163
 [Neuro ARG官方discord频道](https://discord.com/channels/574720535888396288/1288144271823601744)
 
 [Youtube进度总结](https://youtu.be/yNd_qsCZ2Xg?si=c0qF9kg0SeDc9cQN)
+
+[Bilibili烤肉版总结](https://www.bilibili.com/video/BV12ALczPEhV)
